@@ -112,9 +112,9 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 
   <img src="https://github-readme-stats.vercel.app/api?username=brrinta&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="160"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrinta&theme=radical" alt="GitHub streak" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="160"/>
 
 </div>
 
