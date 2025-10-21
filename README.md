@@ -77,6 +77,12 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack%20Start-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -105,6 +111,9 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 ![Brinta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brrinta&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brrinta&theme=radical)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brrinta&theme=radical)
+![Metrics](https://metrics.lecoq.io/brrinta?template=classic&languages=1&introduction=1&isocalendar=1&lines=1&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brrinta&theme=react-dark)
 
 ---
 
@@ -112,8 +121,9 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 
 [![Gmail](https://img.shields.io/badge/Email-brrinta@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brrinta@gmail.com)
 [![WorkMail](https://img.shields.io/badge/WorkMail-brrinta@champteks.com-111?style=for-the-badge&logo=amazonses&logoColor=white)](mailto:brrinta@champteks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brrinta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brrinta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brrinta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brrinta)
+[![X](https://img.shields.io/badge/Follow-%40brrinta-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brrinta)
+[![GitHub](https://img.shields.io/badge/GitHub-@brrinta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brrinta)
 
 ---
 
