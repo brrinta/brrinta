@@ -46,6 +46,26 @@ A complete **on-demand service and automation platform** built for carwash and f
 
 ---
 
+## ⚙️ Services & Integrations
+
+### 🧩 **ChampTek Integrations**
+I’ve architected and deployed integrations that enhance operations across multiple business verticals:  
+
+- 🧠 **Matomo (Piwik) Analytics** – implemented privacy-first, self-hosted analytics for Entero.biz and healthcare clients to monitor KPIs, conversions, and engagement.  
+- ☎️ **VitalPBX** – deployed secure telephony and call management for client call centers with role-based dashboards and live call logs.  
+- 🏥 **Healthcare Clients Supported:**  
+  - **WellViewCare** – patient engagement and remote monitoring solutions  
+  - **Nabe Pharmacy** – prescription tracking and refill management  
+  - **PreventRx** – preventive care workflows and clinical communication modules  
+
+### 🧾 **Automation & Payment Stack**
+- **Payments:** Stripe · Authorize.net · PayPal · Clover · 2Checkout · Square · Payeezy  
+- **Messaging:** Twilio (SMS & Notifications)  
+- **Infrastructure:** AWS EC2 · GCP Compute · Dockerized microservices  
+- **Analytics & Monitoring:** Matomo (Piwik) · Prometheus (metrics) · VitalPBX (call insights)
+
+---
+
 ## 💞️ I’m looking to collaborate on:
 - SaaS admin panels and automation suites  
 - FinTech and payment gateway projects  
