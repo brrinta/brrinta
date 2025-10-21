@@ -108,12 +108,24 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Brinta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brrinta&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brrinta&theme=radical)
+
+---
+
+### 🧮 Advanced Analytics
+
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brrinta&theme=radical)
+
 ![Metrics](https://metrics.lecoq.io/brrinta?template=classic&languages=1&introduction=1&isocalendar=1&lines=1&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brrinta&theme=react-dark)
+
+</div>
+
 
 ---
 
