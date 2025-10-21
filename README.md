@@ -108,24 +108,29 @@ I’ve implemented, optimized, and maintained multiple gateways across different
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-![Brinta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brrinta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brrinta&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=brrinta&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrinta&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="160"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrinta&theme=radical" alt="GitHub streak" height="160"/>
+
+</div>
 
 ---
 
 ### 🧮 Advanced Analytics
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brrinta&theme=radical)
+<div align="center" style="display:flex; flex-wrap:wrap; flex-direction:row; justify-content:center; gap:15px;">
 
-![Metrics](https://metrics.lecoq.io/brrinta?template=classic&languages=1&introduction=1&isocalendar=1&lines=1&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brrinta&theme=radical" alt="Profile Summary"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brrinta&theme=react-dark)
+  <img src="https://metrics.lecoq.io/brrinta?template=classic&languages=1&introduction=1&isocalendar=1&lines=1&theme=radical" alt="GitHub Metrics"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brrinta&theme=react-dark" alt="Activity Graph"/>
 
 </div>
-
 
 ---
 
