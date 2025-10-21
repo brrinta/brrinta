@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://brrinta.me/</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Projects Section -->
+    <url>
+        <loc>https://brrinta.me/#projects</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Services & Integrations -->
+    <url>
+        <loc>https://brrinta.me/#services</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Tech Stack -->
+    <url>
+        <loc>https://brrinta.me/#stack</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Analytics -->
+    <url>
+        <loc>https://brrinta.me/#analytics</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact -->
+    <url>
+        <loc>https://brrinta.me/#contact</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- External Profiles -->
+    <url>
+        <loc>https://linkedin.com/in/brrinta</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <url>
+        <loc>https://x.com/brrinta</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <url>
+        <loc>https://github.com/brrinta</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>

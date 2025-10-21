@@ -1,0 +1,19 @@
+# robots.txt for https://brrinta.me/
+
+User-agent: *
+Allow: /
+
+# Block admin or dev paths (if you ever add them)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /drafts/
+Disallow: /preview/
+
+# Sitemap location
+Sitemap: https://brrinta.me/sitemap.xml
+
+# Host declaration
+Host: https://brrinta.me
+
+# Crawl-delay for polite indexing (optional)
+# Crawl-delay: 5
